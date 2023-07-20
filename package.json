@@ -4,8 +4,12 @@
   "private": true,
   "homepage": "",
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.1",
     "@react-buddy/ide-toolbox": "^2.4.0",
     "@react-buddy/palette-antd": "^4.18.1",
+    "@react-buddy/palette-mui": "^5.0.1",
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "12.0.0",
     "@testing-library/user-event": "13.2.1",

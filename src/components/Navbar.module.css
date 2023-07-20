@@ -1,0 +1,14 @@
+.nav {
+    grid-area: n;
+    background-color: #1d5781;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+}
+.item {
+    display: block;
+    margin: 0 10px;
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+}
