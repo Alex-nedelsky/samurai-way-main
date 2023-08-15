@@ -12,8 +12,8 @@ export const MyPosts: React.FC = () => {
 
             </div>
             <div className={s.posts}>
-                <Post message={"It's my first post"}/>
-                <Post message={"Hi, how are you?"}/>
+                <Post message={"It's my first post"} likesCount={3242}/>
+                <Post message={"Hi, how are you?"} likesCount={0}/>
             </div>
         </div>
     );
